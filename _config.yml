@@ -3,3 +3,4 @@ description: Small website to publish some game reviews. By Voozde.
 theme: minima
 baseurl: ""
 url: "https://voozde.github.io"
+author: Voozde
