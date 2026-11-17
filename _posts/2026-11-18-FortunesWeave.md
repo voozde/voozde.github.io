@@ -1,3 +1,10 @@
+---
+layout: post
+title: "On Fire Emblem Fortune's Weave"
+date: 2026-11-18
+---
+
+
 # On Fire Emblem Fortune's Weave
 
 Exactly two months ago today, Fire Emblem Fortune's Weave was released on the Nintendo Switch 2.
