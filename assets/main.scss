@@ -6,3 +6,14 @@
 .rss-subscribe {
   display: none;
 }
+
+/* Hide the default footer heading text */
+.footer-heading {
+  font-size: 0;
+}
+
+/* Insert your custom bottom-left heading text */
+.footer-heading::after {
+  content: "Voozde";
+  font-size: 18px;
+}
