@@ -5,6 +5,8 @@ date: 2026-11-18
 ---
 
 
+<div style="text-align: justify;">
+
 # On Fire Emblem Fortune's Weave
 
 Exactly two months ago today, Fire Emblem Fortune's Weave was released on the Nintendo Switch 2.
@@ -28,3 +30,5 @@ Fortune's Weave review scores reminded me of a game I may talk about in the futu
 Fortune's Weave is an excellent game deserving of praise, but its flaws may be too glaring for some players that may eventually put the game down without experiencing all it has to offer, and this chore repetition formula may be the point to blame. In future entries (maybe even the DLC?), perhaps Intelligent Systems may want to redesign or address this type of complain, as it has been increasingly important ever since Corrin ever got some free real state from her maid dragon back in 2015.
 
 Thank you for reading and until next time!
+
+</div>
