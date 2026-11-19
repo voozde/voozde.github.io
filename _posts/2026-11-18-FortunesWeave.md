@@ -6,8 +6,6 @@ date: 2026-11-18
 
 # Shortly on Fire Emblem Fortune's Weave
 
-<div style="text-align: justify;">
-
 Exactly two months ago today, Fire Emblem Fortune's Weave was released on the Nintendo Switch 2.
 
 An extremely anticipated title due to being one of Nintendo's main heavy hitters, and a direct sucessor to the Three Houses formula, both the expectations and the scope of the game were high for both fans and critics.
@@ -31,5 +29,3 @@ Although Fortune's Weave is an excellent game deserving of praise, but its flaws
 But with how well it has sold or been received, will they?
 
 Thank you for reading and until next time!
-
-</div>
